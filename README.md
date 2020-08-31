@@ -201,5 +201,5 @@ De: <a href="signup”</a>
 Para: <a [routerLink]="['/signup’]”</a>
 
 ## Screenshot
+![Screenshot_20200527-075151](https://user-images.githubusercontent.com/7735662/91672793-d428db80-eb06-11ea-92d2-09bda1fdb2c5.png)
 
-https://user-images.githubusercontent.com/7735662/91672793-d428db80-eb06-11ea-92d2-09bda1fdb2c5.png
