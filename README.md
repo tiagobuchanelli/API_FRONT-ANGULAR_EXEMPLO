@@ -202,6 +202,4 @@ Para: <a [routerLink]="['/signup’]”</a>
 
 ## Screenshot
 
-| Dashboard  | CartShop | Login
-| ------------- | ------------- | ------------- |
-| ![Screenshot_Dashboard](https://user-images.githubusercontent.com/7735662/83012674-1c110180-9ff2-11ea-9d44-ca319c2fd228.jpg)  | ![Screenshot_Cart](https://user-images.githubusercontent.com/7735662/91672794-d68b3580-eb06-11ea-9809-abc68458ff85.png)  
+https://user-images.githubusercontent.com/7735662/91672793-d428db80-eb06-11ea-92d2-09bda1fdb2c5.png
