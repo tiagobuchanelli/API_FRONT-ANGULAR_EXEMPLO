@@ -200,6 +200,10 @@ Sempre que optar por utilizar o schema de rotas, as tags de redirecionamento pre
 De: <a href="signup”</a>
 Para: <a [routerLink]="['/signup’]”</a>
 ```
-## Screenshot
-![Screenshot_20200527-075151](https://user-images.githubusercontent.com/7735662/91672793-d428db80-eb06-11ea-92d2-09bda1fdb2c5.png)
+## Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/7735662/91672793-d428db80-eb06-11ea-92d2-09bda1fdb2c5.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/7735662/91672794-d68b3580-eb06-11ea-9809-abc68458ff85.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/7735662/91672797-d7bc6280-eb06-11ea-8f33-3bd5189ae5fc.png)
 
