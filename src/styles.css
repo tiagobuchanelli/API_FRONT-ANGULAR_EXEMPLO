@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+/*Utilizado o !important pois o css do uikit ja foi carregado, e esse aqui carrega depois, para resolver poderia compilar novamente o uikit com essas mudanças*/
+.uk-form-danger {
+  border: 2px solid #ff0000 !important;
+}
+
+button:disabled {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}

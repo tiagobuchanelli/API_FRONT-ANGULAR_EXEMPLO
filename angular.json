@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PetShopTiago"
+    }
+  },
+  "defaultProject": "PetShopTiago",
+  "cli": {
+    "analytics": "e871971f-ff3b-4497-8d59-d589f70c38f4"
+  }
 }
