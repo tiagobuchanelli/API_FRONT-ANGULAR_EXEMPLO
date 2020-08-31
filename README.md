@@ -1,7 +1,8 @@
 Considerações
 
 **PROCEDIMENTO PARA UTILIZAR MOEDA EM R$0.000,00**
-``td
+
+``ts
 import { LOCALE_ID } from '@angular/core';
 import { registerLocaleData } from '@angular/common';
 import localePt from '@angular/common/locales/pt';
