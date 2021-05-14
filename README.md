@@ -23,10 +23,12 @@ export class AppModule { }
 ```
 
 **Arquivos CSS**
-Podem ser utilizado qualquer framework, ex: Bootstrap, Bluma, UIKit, etc..
+
+Pode ser utilizado qualquer framework, ex: Bootstrap, Bluma, UIKit, etc..
 Armazenar os arquivos CSS/JS na pasta ‘assets’ e chamá-los na página index.html
 
 **Armazenar dados localmente**
+
 Utilizar recurso de armazenamento local, como: LocalStorage e SessionStorage.
 Ex: 
 Criar arquivos Utils para salvar os dados do carrinho ou do usuário em uma aplicação.
